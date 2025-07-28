@@ -1,0 +1,3 @@
+- Refer to releases on how to use
+- Cheat demo: https://youtu.be/NczyxjynzK0
+- Future goal: format the project deliverable to .md or upload the pdf here as a guide
